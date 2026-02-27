@@ -1,3 +1,4 @@
+export const runtime = 'edge'; // Ép buộc chạy trên Edge Runtime của Cloudflare
 import { NextRequest, NextResponse } from 'next/server';
 
 
