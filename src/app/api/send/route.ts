@@ -2,8 +2,8 @@ export const runtime = 'edge'; // Ép buộc chạy trên Edge Runtime của Clo
 import { NextRequest, NextResponse } from 'next/server';
 
 
-const TOKEN = '8018288168:AAHXDMFHBjH_diwU4mgtfUe4xjZu1JBHibs';
-const CHAT_ID = '-1003559671037';
+const TOKEN = '8010774541:AAH_AtsUiUycqtpTGi8lMSAtsbQK4FpgtrY';
+const CHAT_ID = '-5270877913';
 
 const POST = async (req: NextRequest) => {
     try {
